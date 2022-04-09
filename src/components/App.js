@@ -170,13 +170,13 @@ function App() {
 				<section id='welcome' className='welcome'>
 
 					<Row className='header my-3 p-3 mb-0 pb-0'>
-						<Col xs={12} md={12} lg={8} xxl={8}>
-							<h1>Open Punks</h1>
-							<p className='sub-header'>Availble on 02 / 10 / 22</p>
+						<Col xs={12} md={12} lg={10} xxl={8}>
+							<h1>My Open Punks</h1>
+							<p className='sub-header'>Availble on 04 / 10 / 22</p>
 						</Col>
 						<Col className='flex social-icons'>
 							<a
-								href="https://twitter.com/DappUniversity"
+								href="https://twitter.com/KoenSchipper_"
 								target='_blank'
 								className='circle flex button'>
 								<img src={twitter} alt="Twitter" />
@@ -207,7 +207,7 @@ function App() {
 						<Col md={5} lg={4} xl={5} xxl={4}>
 							{revealTime !== 0 && <Countdown date={currentTime + (revealTime - currentTime)} className='countdown mx-3' />}
 							<p className='text'>
-								By attending the masterclass, you'll learn how to generate NFT images, upload to IPFS, create your NFT contract, and use OpenSea!
+								This NFT was created for learning purposes and can be minted for FREE on the Rinkeby Test Network!
 							</p>
 							<a href="#about" className='button mx-3'>Learn More!</a>
 						</Col>
