@@ -5,9 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="17d30859-25b6-4c90-a2c1-77655b64eb78" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/migrations/2_deploy_contracts.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/OpenPunks.test.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/truffle-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/truffle-config.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/Address.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/Address.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/Context.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/Context.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/ERC165.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/ERC165.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/ERC721.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/ERC721.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/ERC721Enumerable.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/ERC721Enumerable.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/IERC165.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/IERC165.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/IERC721.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/IERC721.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/IERC721Enumerable.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/IERC721Enumerable.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/IERC721Metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/IERC721Metadata.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/IERC721Receiver.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/IERC721Receiver.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/Migrations.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/Migrations.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/OpenPunks.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/OpenPunks.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/Ownable.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/Ownable.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/abis/Strings.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/abis/Strings.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/OpenPunks.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/test/OpenPunks.test.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,10 +62,25 @@
       <workItem from="1649066826806" duration="2005000" />
       <workItem from="1649086278537" duration="228000" />
       <workItem from="1649086515682" duration="40000" />
+      <workItem from="1649086575865" duration="1115000" />
+      <workItem from="1649094856758" duration="1847000" />
+      <workItem from="1649183788257" duration="1352000" />
+      <workItem from="1649186236230" duration="1353000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

@@ -171,7 +171,7 @@ contract('OpenPunks', ([deployer, user]) => {
 
             beforeEach(async () => {
                 // Some date in the future
-                const NFT_MINT_DATE = new Date("Feb 28, 2022 18:00:00").getTime().toString().slice(0, 10)
+                const NFT_MINT_DATE = new Date("Apr 10, 2022 22:00:00").getTime().toString().slice(0, 10)
 
                 openPunks = await OpenPunks.new(
                     NAME,
